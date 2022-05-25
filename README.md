@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayrek-fst
-- 👀 I’m interested in mobile application development
-- 📫 How to reach me via email
+- 👀 I’m interested in mobile application development projects
+- 📫 Don't hesitate to reach me via email
 
 <!---
 jayrek-fst/jayrek-fst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
